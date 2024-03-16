@@ -10,11 +10,28 @@
       <li>Хеши и моды для роутера</li>
       <li>Настройка общего конфига</li>
     </ul>
-    <p>
-      Сделано на курсе
-      <a href="https://tocode.ru/courses/vuejs-3-s-nulya-do-rezultata/"
-        >Cделано на курсе "Vue.js 3 c нуля до результата"</a
-      >
-    </p>
+    <h2>И мелочи:</h2>
+    <ul>
+      <li>Полное настройка для переиспользования шаблона</li>
+      <li>Универсальный компонент списка и форм</li>
+      <li>Универсальный компонент Тегов для будущих проектов</li>
+    </ul>
+    <h2>In this application:</h2>
+     <ul>
+       <li>Full template customization on Vue CLI</li>
+       <li>Installing and configuring Vue-router for Vue.js 3</li>
+       <li>Dynamic redrawing without page reload</li>
+       <li>Dynamic navbar and links</li>
+       <li>Handling non-existent routes</li>
+       <li>Hashes and mods for the router</li>
+       <li>Setting up a general config</li>
+     </ul>
+     <h2>And little things:</h2>
+     <ul>
+       <li>Full customization for template reuse</li>
+       <li>Universal list and form component</li>
+       <li>Universal Tags component for future projects</li>
+     </ul>
   </div>
 </template>
+
